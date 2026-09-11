@@ -10,7 +10,7 @@
 
 启用 GitHub Pages 后：
 
-    https://yunzi13866684081.github.io/product-kb/
+    https://yunzi13866684081.github.io/product-kbOS/
 
 ## 它是怎么保持"地址永久有效"的
 
